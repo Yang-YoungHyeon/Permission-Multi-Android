@@ -1,0 +1,3 @@
+[2019-12-19]
+- build.gradle(Module:app) : implementation 'com.android.gms:play-services-location:17.0.0'
+- 등록방법 : File - Project Structure - Dependencies - <All Modules>  - "+" - "play-services-location" Search & Version Check - OK & Apply
