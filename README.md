@@ -98,11 +98,6 @@ public void onRequestPermissionsResult(int requestCode, @NonNull String[] permis
 
 <div>
   <img width="200" src="https://user-images.githubusercontent.com/58409497/71191641-310e9980-22ca-11ea-8d4a-1cbe10b57959.jpg"/>
-</div>
-<div>
   <img width="200" src="https://user-images.githubusercontent.com/58409497/71191645-34098a00-22ca-11ea-982a-7c5a8d8f2e12.jpg"/>
-</div>
-<div>
   <img width="200" src="https://user-images.githubusercontent.com/58409497/71191650-353ab700-22ca-11ea-8268-530fb8aff465.jpg"/>
 </div>
-
